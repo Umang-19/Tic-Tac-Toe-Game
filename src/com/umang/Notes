@@ -1,0 +1,14 @@
+> Make board using 2-D Array
+> Make printboard Function which will take board as input
+
+> Make putsymbol function which will take board, pos , user(you / comp)
+  : Set symbol as 0 / X as per the user
+  : Update pos in respective hashset (to keep track of taken positions)
+  : Use switch case to put symbol on correct position (out of 9 pos)
+  : Call printboard
+
+> Take input in main function , check in sets if present take input again,
+in end call putsymbol function
+Do same for computer
+
+> Implement Check Winner method
